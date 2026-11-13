@@ -1,4 +1,4 @@
-# Política de Privacidade do Flagra
+# Política de privacidade do Flagra
 
 *Versão de 12 de novembro de 2026*
 

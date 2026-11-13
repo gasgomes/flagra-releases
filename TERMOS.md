@@ -1,10 +1,10 @@
-# Termos de Uso do Flagra
+# Termos de uso do Flagra
 
 *Versão de 12 de novembro de 2026*
 
 Ao instalar ou usar o Flagra, você concorda com estes termos. Leia com calma: são curtos.
 
-## 1. O que é o flagra
+## 1. O que é o Flagra
 
 O Flagra é um programa gratuito para Windows que grava as suas partidas, acha os melhores momentos e monta vídeos curtos (shorts) a partir deles. Tudo roda no seu próprio computador.
 

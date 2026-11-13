@@ -4,7 +4,7 @@
 
 Resumo: o Flagra não coleta nenhum dado seu. Seus vídeos, sua câmera, seu rosto e o seu áudio ficam no seu computador.
 
-## 1. O que o flagra faz no seu computador
+## 1. O que o Flagra faz no seu computador
 
 Para gravar e montar os vídeos, o Flagra usa no seu próprio PC:
 
@@ -18,7 +18,7 @@ Tudo isso é processado no seu computador, inclusive as legendas e as inteligên
 
 Nada. O Flagra não tem conta, nem propaganda, nem estatísticas de uso, nem relatórios de erro automáticos. Não sabemos quem usa o Flagra nem como.
 
-## 3. Quando o flagra usa a internet
+## 3. Quando o Flagra usa a internet
 
 Só nestes casos:
 
